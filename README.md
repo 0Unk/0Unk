@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @0Unk
 - 👀 I’m interested in write stories
 - 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on this site
 - 📫 How to reach me ...
 
 <!---
